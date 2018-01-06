@@ -1,0 +1,13 @@
+{
+  "bit": "filesystem",
+  
+  "path": "dist/filesystem.js",
+  
+  "version": "0.1.0",
+  
+  "author": "Nery Jr",
+  
+  "description": "Módulo de acesso a arquivos",
+  
+  "dependencies": []
+}
