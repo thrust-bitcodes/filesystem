@@ -123,3 +123,5 @@ var fs = {
     }
 
 }
+
+exports = fs
